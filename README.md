@@ -3,6 +3,8 @@
 Phishing email sample from [malware-traffic-analysis.net (2024-08-29)](https://www.malware-traffic-analysis.net/2024/08/29/index.html)  
 File analyzed: `2024-08-29-phishing-email-0415-UTC.eml`
 
+> [!NOTE]
+> - Please check the Report for detailed walkthrough - [**report.md**](https://github.com/svlord5/task2-email-phishing/blob/main/report.md)
 
 ##  Email Overview
 - **From:** SupportDesk <khz.port@scp.gov.iq>
